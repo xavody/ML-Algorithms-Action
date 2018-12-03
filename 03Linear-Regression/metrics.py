@@ -2,6 +2,11 @@ import numpy as np
 import math
 
 
+def accuracy_score(y_true, y_predict):
+    """计算y_true和y_predict之间的准确度"""
+    return sum(y_predict == y_true) / len(y_true)
+
+    
 def mean_squared_error(y_true, y_predict):
     """计算y_true和y_predict之间的MSE"""
     return np.sum((y_predict - y_true) ** 2) / len(y_true)
