@@ -7,3 +7,4 @@ Machine Learning Algorithms.
 4. [Gradient Descent & Linear Regression](04Gradient-Descent-and-Linear-Regressiion/)
 5. [PAC & Gradient Ascent](05PAC-and-Gradient-Ascent/)
 6. [Polynomial Regression & Model Generalization](06Polynomial-Regression-and-Model-Generalization/)
+7. [Logistic Regression](07Logistic-Regression/)
