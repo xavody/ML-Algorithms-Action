@@ -8,3 +8,4 @@ Machine Learning Algorithms.
 5. [PAC & Gradient Ascent](05PAC-and-Gradient-Ascent/)
 6. [Polynomial Regression & Model Generalization](06Polynomial-Regression-and-Model-Generalization/)
 7. [Logistic Regression](07Logistic-Regression/)
+8. [Classification Performance Measures](10Classification-Performance-Measures/)
